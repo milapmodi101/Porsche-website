@@ -1,0 +1,8 @@
+{
+  "name": "Porsche 911 GT3 RS",
+  "description": "An ultra-premium, interactive showcase website for the Porsche 911 GT3 RS, featuring performance specs, engineering highlights, and an immersive dark design with neon accents.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
